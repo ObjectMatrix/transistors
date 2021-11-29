@@ -15,4 +15,8 @@ Transistors: Tinkering with following ideas
 - How to Build an N-Channel JFET Switch Circuit 
 - How to Build a P-Channel JFET Switch Circuit
 
-![audio amplification](circuit.png)
+![audio amplification](circuit.png)  
+
+## An oscilloscope is good have a 2-channel equipment
+
+![oscilloscope](scope.png) 
