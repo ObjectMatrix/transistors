@@ -17,6 +17,6 @@ Transistors: Tinkering with following ideas
 
 ![audio amplification](circuit.png)  
 
-## An oscilloscope is good have a 2-channel equipment
+## It is good have a 2-channel Oscilloscope
 
 ![oscilloscope](scope.png) 
