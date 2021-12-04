@@ -14,6 +14,7 @@ Transistors: Tinkering with following ideas
 - How to Build a P-Channel MOSFET Switch Circuit JFETs 
 - How to Build an N-Channel JFET Switch Circuit 
 - How to Build a P-Channel JFET Switch Circuit
+- how to build a delay circuit with ic555 (and with a BJT transistor)
 
 ![audio amplification](circuit.png)  
 
