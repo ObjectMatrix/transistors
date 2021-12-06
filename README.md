@@ -26,3 +26,6 @@ Transistors: Tinkering with following ideas
 The standard 555 package includes 25 transistors, 2 diodes and 15 resistors on a silicon chip installed in an 8-pin dual in-line package (DIP-8)
 
 ![delay](delay.jpg) 
+
+
+![Blink](blink.jpg) 
