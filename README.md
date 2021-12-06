@@ -22,5 +22,7 @@ Transistors: Tinkering with following ideas
 
 ![oscilloscope](scope.png) 
 
-##  Delay (10sec) circuit  
+##  Delay (10sec) circuit wth ic555
+The standard 555 package includes 25 transistors, 2 diodes and 15 resistors on a silicon chip installed in an 8-pin dual in-line package (DIP-8)
+
 ![delay](delay.jpg) 
