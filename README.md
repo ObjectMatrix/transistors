@@ -21,3 +21,6 @@ Transistors: Tinkering with following ideas
 ## It is good have a 2-channel Oscilloscope
 
 ![oscilloscope](scope.png) 
+
+##  Delay (10sec) circuit  
+![delay](delay.jpg) 
